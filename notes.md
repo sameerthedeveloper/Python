@@ -1,6 +1,3 @@
-Here is the complete Markdown file:
-
-```markdown
 # Python Overview
 
 ## Developed By
@@ -258,5 +255,4 @@ def my_function(a):
     return a * 10
 
 print(my_function(50))  # Output: 500
-```
 ```
